@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function navigate() {
-  window.location.href("https://twitter.com/k_seks");
+  window.location.href = "https://twitter.com/k_seks";
 }
